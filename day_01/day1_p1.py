@@ -15,7 +15,7 @@ def dials_password(string):
             count += 1
     return count
 
-#I want main to read from inoput file and print the result
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
